@@ -1,4 +1,4 @@
-# Repositories API
+# Repositories Mobile
 
 ## Install
 
